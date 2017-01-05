@@ -1,0 +1,75 @@
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    background-color: #666699;
+	width: 75%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+#options {
+	width: 75%;
+}
+
+#bannerimage {
+  width: 75%;
+  background-image: url("fruits_veggies.jpg");
+  height: 100px;
+  background-color: purple;
+  background-position: center;
+  margin: 0 auto;
+}
+
+.mod {
+	border-spacing: 10px 5px;
+	margin: 0 auto;
+}
+
+.button {
+    background-color:  #989898;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    width: 100px;
+    height: 50px;
+}
+
+#parent {
+    width: 75%;
+    margin: 10px auto;
+	background-color: #ebebe0;
+}
+
+#parent2 {
+	background-color: #666699;
+    width: 75%;
+    margin: 10px auto;
+   
+}
+
+img {
+  height:200px;
+  width:250px;
+}
+
+li.item {
+   margin:0 20px 10px 0;   
+}

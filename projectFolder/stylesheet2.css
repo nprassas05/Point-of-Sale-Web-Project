@@ -1,0 +1,23 @@
+html {
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+h1 {
+	font-size: 24px;
+}
+
+#wrapper {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+}
+
+div {
+	background-color: lightgrey;
+}
+
+#form {
+	margin: auto;
+	width: 200px;
+	height: 100px;
+}

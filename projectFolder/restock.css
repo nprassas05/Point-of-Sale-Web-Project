@@ -1,0 +1,8 @@
+/* Center the avatar image inside this container */
+.imgcontainer2 {
+    text-align: center;
+    margin: 24px 0 12px 0;
+	background-color: #EAC117;
+	width: 75%;
+	margin : 0 auto;
+}

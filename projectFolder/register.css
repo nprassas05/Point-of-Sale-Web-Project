@@ -1,0 +1,32 @@
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #CD5C5C;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+.imgcontainer {
+    text-align: center;
+    margin: 24px 0 12px 0;
+	width: 75%;
+	margin : 0 auto;
+	
+	background-color: #ebebe0;
+}
+
+.container {
+    padding: 16px;
+	width: 75%;
+	margin: 0 auto;
+}
